@@ -1,0 +1,10 @@
+{"audio": "data/audio/train/maven_train.mp3", "sentence": "We use Maven for project builds and dependency management.", "language": "en"}
+{"audio": "data/audio/train/mvn_train.mp3", "sentence": "To compile the code, type mvn clean install in the terminal and use mvn.", "language": "en"}
+{"audio": "data/audio/train/github_train.mp3", "sentence": "Our open source projects are hosted on GitHub and Git.", "language": "en"}
+{"audio": "data/audio/train/git_train.mp3", "sentence": "We committed the changes to the repository using Git or Github.", "language": "en"}
+{"audio": "data/audio/train/portkey_train.mp3", "sentence": "The API calls are monitored and managed through a Portkey.", "language": "en"}
+{"audio": "data/audio/train/openai_train.mp3", "sentence": "OpenAI released the Whisper model for speech recognition.", "language": "en"}
+{"audio": "data/audio/train/chatgpt_train.mp3", "sentence": "ChatGPT can generate human‑like responses to text prompts.", "language": "en"}
+{"audio": "data/audio/train/llm_train.mp3", "sentence": "An LLM is a large language model trained on massive text data.", "language": "en"}
+{"audio": "data/audio/train/groq_train.mp3", "sentence": "The machine learning inference engine is powered by Groq hardware.", "language": "en"}
+{"audio": "data/audio/train/grok_train.mp3", "sentence": "Developers use Grok to quickly explore large codebases.", "language": "en"}

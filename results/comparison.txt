@@ -1,0 +1,4 @@
+Audio: data/audio/test/test.mp3
+Target    : Using mvn and maven I synced git to github and used a portkey to call an openai chatgpt llm powered by groq and Grok.
+Baseline  :  using mvn and maven I sync git and github and use a port key to call and open ai chat gpt llm powered by groke and groke
+Finetuned :  Using mvn and Maven, I sync Git and GitHub and use a Portkey to call an openAI chatGPT LLM powered by Groq and Groq.
